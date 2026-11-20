@@ -41,7 +41,6 @@ TradeStation Desktop is suitable for a broad set of use cases: intraday scalpers
 ## Screenshots
 
 ![TradeStation Hero](https://cdn.tradestation.com/uploads/ts-desktop-social-1920x1080-1.jpg)
-![TradeStation Radar](https://www.tradestation.com/wp-content/uploads/ss-desktop-radarscreen-1920x1080-1.jpg)
 
 ---
 
